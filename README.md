@@ -1,1 +1,1 @@
-# Pensamento-Computacional---Turma-C
+# Pensamento-Computacional-Turma-C
